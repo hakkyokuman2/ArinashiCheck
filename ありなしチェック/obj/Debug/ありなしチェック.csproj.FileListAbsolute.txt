@@ -6,3 +6,11 @@ C:\Users\teruaki-n\Dropbox\Public\Develop\ProjectVCSharp\OnTheWay\ありなし�
 C:\Users\teruaki-n\Dropbox\Public\Develop\ProjectVCSharp\OnTheWay\ありなしチェック\ありなしチェック\obj\Debug\ありなしチェック.csproj.GenerateResource.Cache
 C:\Users\teruaki-n\Dropbox\Public\Develop\ProjectVCSharp\OnTheWay\ありなしチェック\ありなしチェック\obj\Debug\ありなしチェック.exe
 C:\Users\teruaki-n\Dropbox\Public\Develop\ProjectVCSharp\OnTheWay\ありなしチェック\ありなしチェック\obj\Debug\ありなしチェック.pdb
+E:\GitHub\ArinashiCheck\ありなしチェック\bin\Debug\ありなしチェック.exe.config
+E:\GitHub\ArinashiCheck\ありなしチェック\obj\Debug\ありなしチェック.exe
+E:\GitHub\ArinashiCheck\ありなしチェック\obj\Debug\ありなしチェック.pdb
+E:\GitHub\ArinashiCheck\ありなしチェック\bin\Debug\ありなしチェック.exe
+E:\GitHub\ArinashiCheck\ありなしチェック\bin\Debug\ありなしチェック.pdb
+E:\GitHub\ArinashiCheck\ありなしチェック\obj\Debug\ありなしチェック.csprojResolveAssemblyReference.cache
+E:\GitHub\ArinashiCheck\ありなしチェック\obj\Debug\ありなしチェック.Properties.Resources.resources
+E:\GitHub\ArinashiCheck\ありなしチェック\obj\Debug\ありなしチェック.csproj.GenerateResource.Cache
